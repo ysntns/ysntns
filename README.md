@@ -1,4 +1,4 @@
-1. 👋 Hi, I’m @ysntns. I'm a Data Scientist and Analyst, soon to be a Data Engineer and Generative AI & Prompt Engineer.
+1. 👋 Hi, I’m @ysntns. I'm a Data Scientist and Analyst, soon to be a Data Engineer and Generative AI & Prompt Engineer 🤩🪄.
 
 2. 👀 I enjoy using data to overcome complex challenges.
 
