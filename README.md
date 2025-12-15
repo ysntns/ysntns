@@ -26,7 +26,6 @@
 - Empowering individuals with speech impairments through technology
 
 📊 **Achievements & Recognition**:
-- 💰 **875,700 TL** secured from TÜBİTAK BiGG funding
 - 🌍 **€15,000** grant finalist - F6S Slovenia Business Bridge
 - 🥈 **TEKNOFEST** Turkish NLP Competition Finalist
 - 🎓 **ITU Çekirdek** accelerator program participant
